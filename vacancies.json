@@ -1,7 +1,9 @@
 {
   "employer_id": "1740",
-  "total_found": 673,
-  "filtered_found": 6,
+  "total_found": 675,
+  "filtered_found": 17,
+  "pages_processed": 7,
+  "per_page": 100,
   "items": [
     {
       "id": "129605023",
@@ -251,9 +253,9 @@
       "adv_context": null
     },
     {
-      "id": "129863626",
+      "id": "129662104",
       "premium": false,
-      "name": "KAM (partnership manager) в Доставку",
+      "name": "Младший CRM-менеджер рекламного направления",
       "department": {
         "id": "yandex-1740-delivery",
         "name": "Яндекс Доставка"
@@ -274,20 +276,28 @@
       "address": {
         "city": "Москва",
         "street": "1-й Красногвардейский проезд",
-        "building": "21с1",
-        "lat": 55.750028,
-        "lng": 37.534397,
+        "building": "19",
+        "lat": 55.750535,
+        "lng": 37.536535,
         "description": null,
-        "raw": "Москва, 1-й Красногвардейский проезд, 21с1",
+        "raw": "Москва, 1-й Красногвардейский проезд, 19",
         "metro": {
-          "station_name": "Москва-Сити",
-          "line_name": "Филевская",
-          "station_id": "4.179",
-          "line_id": "4",
-          "lat": 55.748056,
-          "lng": 37.532778
+          "station_name": "Деловой центр",
+          "line_name": "Солнцевская",
+          "station_id": "133.468",
+          "line_id": "133",
+          "lat": 55.7491,
+          "lng": 37.5395
         },
         "metro_stations": [
+          {
+            "station_name": "Деловой центр",
+            "line_name": "Солнцевская",
+            "station_id": "133.468",
+            "line_id": "133",
+            "lat": 55.7491,
+            "lng": 37.5395
+          },
           {
             "station_name": "Москва-Сити",
             "line_name": "Филевская",
@@ -297,14 +307,14 @@
             "lng": 37.532778
           }
         ],
-        "id": "19062741"
+        "id": "22211485"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2026-01-26T11:27:34+0300",
-      "created_at": "2026-01-26T11:27:34+0300",
+      "published_at": "2026-01-20T15:16:02+0300",
+      "created_at": "2026-01-20T15:16:02+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129863626",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129662104",
       "branding": {
         "type": "MAKEUP",
         "tariff": null
@@ -312,8 +322,8 @@
       "show_logo_in_search": true,
       "show_contacts": true,
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/129863626?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/129863626",
+      "url": "https://api.hh.ru/vacancies/129662104?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129662104",
       "relations": [],
       "employer": {
         "id": "1740",
@@ -331,8 +341,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Развивали топ-клиентов больше трёх лет.",
-        "responsibility": "Работа с топ-клиентами Доставки. Вы будете выстраивать партнёрские отношения с топ-клиентами сервиса, развивать сотрудничество с ними, наращивать GMV..."
+        "requirement": "Настраивали или оптимизировали процессы и документооборот (будет большим плюсом). Работали в ecom, ритейле, финтехе, на маркетплейсах или в IT-продуктах. ",
+        "responsibility": "Построение и оптимизация процесса запуска рекламных кампаний с нуля. Разработать и внедрить полный процесс работы с рекламными кампаниями — от запуска..."
       },
       "contacts": null,
       "schedule": {
@@ -362,13 +372,152 @@
           "name": "5/2"
         }
       ],
-      "accept_labor_contract": true,
+      "accept_labor_contract": false,
       "civil_law_contracts": [],
       "night_shifts": false,
       "professional_roles": [
         {
-          "id": "73",
-          "name": "Менеджер продукта"
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129280001",
+      "premium": false,
+      "name": "Младший специалист по тендерам",
+      "department": {
+        "id": "yandex-1740-ois360",
+        "name": "Облачные, инфраструктурные сервисы и Яндекс 360 "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Льва Толстого",
+        "building": "16",
+        "lat": 55.733771,
+        "lng": 37.587937,
+        "description": null,
+        "raw": "Москва, улица Льва Толстого, 16",
+        "metro": {
+          "station_name": "Парк культуры",
+          "line_name": "Сокольническая",
+          "station_id": "1.103",
+          "line_id": "1",
+          "lat": 55.736163,
+          "lng": 37.595027
+        },
+        "metro_stations": [
+          {
+            "station_name": "Парк культуры",
+            "line_name": "Сокольническая",
+            "station_id": "1.103",
+            "line_id": "1",
+            "lat": 55.736163,
+            "lng": 37.595027
+          }
+        ],
+        "id": "158683"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-01-12T11:11:57+0300",
+      "created_at": "2026-01-12T11:11:57+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129280001",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129280001?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129280001",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Получили высшее образование (экономическое, финансовое или юридическое). Работали в тендерном отделе со стороны поставщика более двух лет (рассматриваем кандидатов с...",
+        "responsibility": "Подготовка заявок на участие в тендерах. Вам нужно будет заполнять формы, собирать документы, в рамках подготовки заявок координировать работу команд..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "119",
+          "name": "Специалист по тендерам"
         }
       ],
       "accept_incomplete_resumes": false,
@@ -498,9 +647,9 @@
       "adv_context": null
     },
     {
-      "id": "129775328",
+      "id": "129907422",
       "premium": false,
-      "name": "Менеджер по работе с корпоративными клиентами (junior level)",
+      "name": "Стажер iOS/Flutter",
       "department": {
         "id": "yandex-1740-yandex",
         "name": "Яндекс"
@@ -508,28 +657,28 @@
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "2796",
-        "name": "Ош",
-        "url": "https://api.hh.ru/areas/2796"
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
       },
       "salary": null,
       "salary_range": null,
       "type": {
-        "id": "open",
-        "name": "Открытая"
+        "id": "direct",
+        "name": "Рекламная"
       },
       "address": null,
-      "response_url": null,
+      "response_url": "https://yandex.ru/yaintern/siriusmobile/?utm_source=hh&utm_campaign=sirius26",
       "sort_point_distance": null,
-      "published_at": "2026-01-27T14:51:31+0300",
-      "created_at": "2026-01-27T14:51:31+0300",
+      "published_at": "2026-01-27T10:35:26+0300",
+      "created_at": "2026-01-27T10:35:26+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129775328",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129907422",
       "show_logo_in_search": null,
-      "show_contacts": true,
+      "show_contacts": false,
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/129775328?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/129775328",
+      "url": "https://api.hh.ru/vacancies/129907422?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129907422",
       "relations": [],
       "employer": {
         "id": "1740",
@@ -547,13 +696,171 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Грамотно пишешь и говоришь на русском и на кыргызском языках. Работал в сфере продаж (желательно В2В сегмент) либо...",
-        "responsibility": "Развивать действующую клиентскую базу. Выстраивать долгосрочные отношения с клиентами. Аккуратно и вдумчиво работать в CRM-системе. Следить за сроком и..."
+        "requirement": "Базовое знание Swift / Dart для направлений iOS или Flutter соответственно. Умение решать алгоритмические задачи. Хотя бы минимальный опыт создания приложений...",
+        "responsibility": "IOS-разработка. Flutter-разработка. Чтобы подать заявку на участие, нужно будет заполнить заявку на сайте, нажав “Откликнуться”."
       },
       "contacts": null,
       "schedule": {
-        "id": "remote",
-        "name": "Удаленная работа"
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "project",
+        "name": "Проектная работа"
+      },
+      "employment_form": {
+        "id": "PROJECT",
+        "name": "Проект"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129711945",
+      "premium": false,
+      "name": "Стажёр — Unity-разработчик в Плюс Детям",
+      "department": {
+        "id": "yandex-1740-plusfan",
+        "name": "Плюс Фантех "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "direct",
+        "name": "Рекламная"
+      },
+      "address": {
+        "city": "Москва",
+        "street": null,
+        "building": null,
+        "lat": 55.755864,
+        "lng": 37.617698,
+        "description": null,
+        "raw": "Москва",
+        "metro": {
+          "station_name": "Библиотека им.Ленина",
+          "line_name": "Сокольническая",
+          "station_id": "1.4",
+          "line_id": "1",
+          "lat": 55.752123,
+          "lng": 37.610388
+        },
+        "metro_stations": [
+          {
+            "station_name": "Библиотека им.Ленина",
+            "line_name": "Сокольническая",
+            "station_id": "1.4",
+            "line_id": "1",
+            "lat": 55.752123,
+            "lng": 37.610388
+          },
+          {
+            "station_name": "Охотный ряд",
+            "line_name": "Сокольническая",
+            "station_id": "1.98",
+            "line_id": "1",
+            "lat": 55.757228,
+            "lng": 37.615078
+          },
+          {
+            "station_name": "Площадь Революции",
+            "line_name": "Арбатско-Покровская",
+            "station_id": "3.100",
+            "line_id": "3",
+            "lat": 55.756741,
+            "lng": 37.62236
+          },
+          {
+            "station_name": "Театральная",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.99",
+            "line_id": "2",
+            "lat": 55.758808,
+            "lng": 37.61768
+          }
+        ],
+        "id": "20481578"
+      },
+      "response_url": "https://yandex.ru/jobs/vacancies/stazhyor-_-unityrazrabotchik-v-plyus-detyam-41106",
+      "sort_point_distance": null,
+      "published_at": "2026-01-21T14:10:46+0300",
+      "created_at": "2026-01-21T14:10:46+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129711945",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129711945?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129711945",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Хорошо знаете C# и понимаете ООП. Обладаете хорошей математической и алгоритмической базой. Разбираетесь в базовых алгоритмах и структурах данных.",
+        "responsibility": "Технические доработки. Вам предстоит улучшать качество кода, инфраструктуру, производительность и безопасность, не меняя при этом внешнюю функциональность для пользователя. Автоматизация. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
       },
       "working_days": [],
       "working_time_intervals": [],
@@ -562,8 +869,175 @@
       "fly_in_fly_out_duration": [],
       "work_format": [
         {
-          "id": "REMOTE",
-          "name": "Удалённо"
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129767039",
+      "premium": false,
+      "name": "Стажер-разработчик бэкенда",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "direct",
+        "name": "Рекламная"
+      },
+      "address": {
+        "city": "Москва",
+        "street": null,
+        "building": null,
+        "lat": 55.75586,
+        "lng": 37.6177,
+        "description": null,
+        "raw": "Москва",
+        "metro": {
+          "station_name": "Библиотека им.Ленина",
+          "line_name": "Сокольническая",
+          "station_id": "1.4",
+          "line_id": "1",
+          "lat": 55.752123,
+          "lng": 37.610388
+        },
+        "metro_stations": [
+          {
+            "station_name": "Библиотека им.Ленина",
+            "line_name": "Сокольническая",
+            "station_id": "1.4",
+            "line_id": "1",
+            "lat": 55.752123,
+            "lng": 37.610388
+          },
+          {
+            "station_name": "Охотный ряд",
+            "line_name": "Сокольническая",
+            "station_id": "1.98",
+            "line_id": "1",
+            "lat": 55.757228,
+            "lng": 37.615078
+          },
+          {
+            "station_name": "Площадь Революции",
+            "line_name": "Арбатско-Покровская",
+            "station_id": "3.100",
+            "line_id": "3",
+            "lat": 55.756741,
+            "lng": 37.62236
+          },
+          {
+            "station_name": "Театральная",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.99",
+            "line_id": "2",
+            "lat": 55.758808,
+            "lng": 37.61768
+          }
+        ],
+        "id": "19055361"
+      },
+      "response_url": "https://yandex.ru/yaintern/backend",
+      "sort_point_distance": null,
+      "published_at": "2026-01-22T16:21:53+0300",
+      "created_at": "2026-01-22T16:21:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129767039",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129767039?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129767039",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Что нужно уметь: — Разбираться в алгоритмах и классических структурах данных.",
+        "responsibility": "Разрабатывают сервис для автономного такси и роботов‑доставщиков. — Если вы участвовали в учебных или реальных проектах, хакатонах и олимпиадах по..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
         }
       ],
       "working_hours": [
@@ -583,8 +1057,8 @@
       "night_shifts": false,
       "professional_roles": [
         {
-          "id": "71",
-          "name": "Менеджер по работе с партнерами"
+          "id": "96",
+          "name": "Программист, разработчик"
         }
       ],
       "accept_incomplete_resumes": false,
@@ -593,32 +1067,32 @@
         "name": "Нет опыта"
       },
       "employment": {
-        "id": "full",
-        "name": "Полная занятость"
+        "id": "part",
+        "name": "Частичная занятость"
       },
       "employment_form": {
-        "id": "FULL",
-        "name": "Полная"
+        "id": "PART",
+        "name": "Частичная"
       },
-      "internship": false,
+      "internship": true,
       "adv_response_url": null,
       "is_adv_vacancy": false,
       "adv_context": null
     },
     {
-      "id": "129006269",
+      "id": "124415892",
       "premium": false,
-      "name": "Инженер проектов по автоматизации в Yandex Robotics",
+      "name": "Младший специалист по B2B-продажам",
       "department": {
-        "id": "yandex-1740-ecomraid",
-        "name": "Городские сервисы"
+        "id": "yandex-1740-delivery",
+        "name": "Яндекс Доставка"
       },
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
+        "id": "2759",
+        "name": "Ташкент",
+        "url": "https://api.hh.ru/areas/2759"
       },
       "salary": null,
       "salary_range": null,
@@ -627,28 +1101,28 @@
         "name": "Открытая"
       },
       "address": {
-        "city": "Москва",
-        "street": "Новинский бульвар",
-        "building": "8",
-        "lat": 55.75131,
-        "lng": 37.584622,
+        "city": "Ташкент",
+        "street": "Юнусабадский район, улица Шахрисабз",
+        "building": "2",
+        "lat": 41.315763,
+        "lng": 69.282683,
         "description": null,
-        "raw": "Москва, Новинский бульвар, 8",
+        "raw": "Ташкент, Юнусабадский район, улица Шахрисабз, 2",
         "metro": null,
         "metro_stations": [],
-        "id": "19427583"
+        "id": "19622708"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2026-01-23T15:20:33+0300",
-      "created_at": "2026-01-23T15:20:33+0300",
+      "published_at": "2026-01-05T09:02:43+0300",
+      "created_at": "2026-01-05T09:02:43+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129006269",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124415892",
       "show_logo_in_search": null,
-      "show_contacts": false,
+      "show_contacts": true,
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/129006269?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/129006269",
+      "url": "https://api.hh.ru/vacancies/124415892?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124415892",
       "relations": [],
       "employer": {
         "id": "1740",
@@ -666,8 +1140,410 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Работали с профильными экспертами и консультантами, вели проекты с международными компаниями. Понимаете, как улучшения процесса влияют на стоимость операций. ",
-        "responsibility": "Разрабатывали и проектировали системы складской или производственной автоматизации на базе промышленного оборудования и роботов. Оценивали эффективность процессов и оборудования, формировали..."
+        "requirement": "Готовы к новым и интересным задачам, принятию оперативных, самостоятельных решений. - Активны, обучаемы, четко и уверенно выражаете свои мысли.",
+        "responsibility": "Активное привлечение и работа с действующими клиентами. - Адаптация клиентов в работе с нашим продуктом (проведение обучения для клиента). - "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129933827",
+      "premium": false,
+      "name": "Младший специалист по развитию новых бизнесов (со знанием английского языка)",
+      "department": {
+        "id": "yandex-1740-delivery",
+        "name": "Яндекс Доставка"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "26",
+        "name": "Воронеж",
+        "url": "https://api.hh.ru/areas/26"
+      },
+      "salary": {
+        "from": 52000,
+        "to": 62400,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 52000,
+        "to": 62400,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-01-27T18:36:22+0300",
+      "created_at": "2026-01-27T18:36:22+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129933827",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129933827?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129933827",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знаете английский язык на уровне B2 или C1. Готовы активно изучать незнакомые рынки и бизнес-модели, постоянно учиться...",
+        "responsibility": "Помогать с ведением проектов от А до Я: управление сроками (timeline management), документооборот, организация follow-up встреч. Осуществлять сбор метрик..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_9",
+          "name": "9 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129711271",
+      "premium": false,
+      "name": "Стажер-инженер по автоматизации тестирования в Финтех Java/Kotlin",
+      "department": {
+        "id": "yandex-1740-finplfan",
+        "name": "Финтех, Плюс Фантех "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "direct",
+        "name": "Рекламная"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Садовническая улица",
+        "building": "82с2",
+        "lat": 55.735616,
+        "lng": 37.642384,
+        "description": null,
+        "raw": "Москва, Садовническая улица, 82с2",
+        "metro": {
+          "station_name": "Павелецкая",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.101",
+          "line_id": "2",
+          "lat": 55.729741,
+          "lng": 37.638693
+        },
+        "metro_stations": [
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
+          },
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Кольцевая",
+            "station_id": "5.102",
+            "line_id": "5",
+            "lat": 55.731414,
+            "lng": 37.636294
+          },
+          {
+            "station_name": "Таганская",
+            "line_name": "Кольцевая",
+            "station_id": "5.76",
+            "line_id": "5",
+            "lat": 55.742396,
+            "lng": 37.653334
+          },
+          {
+            "station_name": "Таганская",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.77",
+            "line_id": "7",
+            "lat": 55.739502,
+            "lng": 37.653605
+          }
+        ],
+        "id": "19040633"
+      },
+      "response_url": "https://yandex.ru/jobs/vacancies/inzhener-po-avtomatizatsii-testirovaniya-stazhyor-v-finteh-35217",
+      "sort_point_distance": null,
+      "published_at": "2026-01-21T14:04:42+0300",
+      "created_at": "2026-01-21T14:04:42+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129711271",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129711271?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129711271",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Понимаете, что такое теория тестирования и жизненный цикл ПО. Знакомы с принципами и подходами в автоматизации тестирования. Знаете основы работы...",
+        "responsibility": "Поддержка и развитие систем автоматизированного тестирования. Совместно с ментором вы будете участвовать в создании автоматизированных сценариев для проверки продукта. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129605022",
+      "premium": false,
+      "name": "Стажёр в IT-команду дата-центра (ЦОД) Яндекса",
+      "department": {
+        "id": "yandex-1740-infstr",
+        "name": "Yandex Infrastructure"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1711",
+        "name": "Сасово",
+        "url": "https://api.hh.ru/areas/1711"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-01-19T15:22:30+0300",
+      "created_at": "2026-01-19T15:22:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129605022",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129605022?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129605022",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Готовы работать по графику 5/2 и уделять стажировке 40 часов в неделю. Хорошо знакомы с устройством ПК, принципами его работы...",
+        "responsibility": "Заниматься техническим обслуживанием парка серверов, монтировать и вводить в эксплуатацию серверное и сетевое оборудование. Выполнять поручения системных администраторов и сетевых..."
       },
       "contacts": null,
       "schedule": {
@@ -702,14 +1578,618 @@
       "night_shifts": false,
       "professional_roles": [
         {
-          "id": "174",
-          "name": "Инженер ПНР"
+          "id": "121",
+          "name": "Специалист технической поддержки"
         }
       ],
       "accept_incomplete_resumes": false,
       "experience": {
-        "id": "between3And6",
-        "name": "От 3 до 6 лет"
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "project",
+        "name": "Проектная работа"
+      },
+      "employment_form": {
+        "id": "PROJECT",
+        "name": "Проект"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129605024",
+      "premium": false,
+      "name": "Стажёр в IT-команду дата-центра (ЦОД) Яндекса",
+      "department": {
+        "id": "yandex-1740-infstr",
+        "name": "Yandex Infrastructure"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "77",
+        "name": "Рязань",
+        "url": "https://api.hh.ru/areas/77"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-01-19T15:22:30+0300",
+      "created_at": "2026-01-19T15:22:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129605024",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129605024?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129605024",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Готовы работать по графику 5/2 и уделять стажировке 40 часов в неделю. Хорошо знакомы с устройством ПК, принципами его работы...",
+        "responsibility": "Заниматься техническим обслуживанием парка серверов, монтировать и вводить в эксплуатацию серверное и сетевое оборудование. Выполнять поручения системных администраторов и сетевых..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "121",
+          "name": "Специалист технической поддержки"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "project",
+        "name": "Проектная работа"
+      },
+      "employment_form": {
+        "id": "PROJECT",
+        "name": "Проект"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129767342",
+      "premium": false,
+      "name": "Стажер-разработчик бэкенда",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "direct",
+        "name": "Рекламная"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": null,
+        "building": null,
+        "lat": 55.030204,
+        "lng": 82.92043,
+        "description": null,
+        "raw": "Новосибирск",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6246916"
+      },
+      "response_url": "https://yandex.ru/yaintern/backend",
+      "sort_point_distance": null,
+      "published_at": "2026-01-22T16:27:49+0300",
+      "created_at": "2026-01-22T16:27:49+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129767342",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129767342?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129767342",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Что нужно уметь: — Разбираться в алгоритмах и классических структурах данных.",
+        "responsibility": "Разрабатывают сервис для автономного такси и роботов‑доставщиков. — Если вы участвовали в учебных или реальных проектах, хакатонах и олимпиадах по..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129767195",
+      "premium": false,
+      "name": "Стажер-разработчик бэкенда",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "direct",
+        "name": "Рекламная"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": null,
+        "building": null,
+        "lat": 59.938951,
+        "lng": 30.315635,
+        "description": null,
+        "raw": "Санкт-Петербург",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5138936"
+      },
+      "response_url": "https://yandex.ru/yaintern/backend",
+      "sort_point_distance": null,
+      "published_at": "2026-01-22T16:24:47+0300",
+      "created_at": "2026-01-22T16:24:47+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129767195",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129767195?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129767195",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Что нужно уметь: — Разбираться в алгоритмах и классических структурах данных.",
+        "responsibility": "Разрабатывают сервис для автономного такси и роботов‑доставщиков. — Если вы участвовали в учебных или реальных проектах, хакатонах и олимпиадах по..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129767279",
+      "premium": false,
+      "name": "Стажер-разработчик бэкенда",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "3",
+        "name": "Екатеринбург",
+        "url": "https://api.hh.ru/areas/3"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "direct",
+        "name": "Рекламная"
+      },
+      "address": {
+        "city": "Екатеринбург",
+        "street": null,
+        "building": null,
+        "lat": 56.838011,
+        "lng": 60.597474,
+        "description": null,
+        "raw": "Екатеринбург",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5776289"
+      },
+      "response_url": "https://yandex.ru/yaintern/backend",
+      "sort_point_distance": null,
+      "published_at": "2026-01-22T16:26:32+0300",
+      "created_at": "2026-01-22T16:26:32+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129767279",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129767279?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129767279",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Что нужно уметь: — Разбираться в алгоритмах и классических структурах данных.",
+        "responsibility": "Разрабатывают сервис для автономного такси и роботов‑доставщиков. — Если вы участвовали в учебных или реальных проектах, хакатонах и олимпиадах по..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129933869",
+      "premium": false,
+      "name": "Младший специалист по развитию новых бизнесов (со знанием английского языка)",
+      "department": {
+        "id": "yandex-1740-delivery",
+        "name": "Яндекс Доставка"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "76",
+        "name": "Ростов-на-Дону",
+        "url": "https://api.hh.ru/areas/76"
+      },
+      "salary": {
+        "from": 52000,
+        "to": 62400,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 52000,
+        "to": 62400,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-01-27T18:40:37+0300",
+      "created_at": "2026-01-27T18:40:37+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129933869",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129933869?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129933869",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3790846.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знаете английский язык на уровне B2 или C1. Готовы активно изучать незнакомые рынки и бизнес-модели, постоянно учиться...",
+        "responsibility": "Помогать с ведением проектов от А до Я: управление сроками (timeline management), документооборот, организация follow-up встреч. Осуществлять сбор метрик..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_9",
+          "name": "9 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
       },
       "employment": {
         "id": "full",
@@ -725,5 +2205,5 @@
       "adv_context": null
     }
   ],
-  "search_date": "2026-01-27 16:39:54"
+  "search_date": "2026-01-27 17:34:37"
 }
